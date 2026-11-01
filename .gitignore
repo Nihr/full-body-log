@@ -1,0 +1,4 @@
+# Local launcher for this computer, not part of the app.
+start-claude.bat
+# Local Claude Code settings for this computer.
+.claude/
