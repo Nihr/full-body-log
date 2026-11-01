@@ -1,6 +1,6 @@
 /* Full body log service worker.
    Bump VERSION on every change to any file in SHELL so phones pick it up. */
-const VERSION = 'v2';
+const VERSION = 'v3';
 const SHELL_CACHE = 'fbl-shell-' + VERSION;
 const FONT_CACHE = 'fbl-fonts-v1';
 // Every local file that index.html or the manifest uses; test.js checks this list.

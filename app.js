@@ -41,8 +41,7 @@ const PROGRAMME = [
     { key: 'legcurl',   name: 'Lying leg curl',                   reps: 10, inc: 5,   rest: 90 },
     { key: 'dbpress',   name: 'Dumbbell shoulder press',          reps: 10, inc: 2,   rest: 120 },
     { key: 'hammer',    name: 'Hammer curl',                      reps: 10, inc: 2,   rest: 60 },
-    { key: 'ohext',     name: 'Overhead cable triceps extension', reps: 10, inc: 2.5, rest: 60 },
-    { key: 'calfstand', name: 'Standing calf raise',              reps: 10, inc: 5,   rest: 60 }
+    { key: 'ohext',     name: 'Overhead cable triceps extension', reps: 10, inc: 2.5, rest: 60 }
   ] },
   { day: 'C', exercises: [
     { key: 'deadlift', name: 'Deadlift',                         reps: 6,  inc: 5,   rest: 180 },
@@ -52,7 +51,6 @@ const PROGRAMME = [
     { key: 'reardelt', name: 'Rear delt fly',                    reps: 10, inc: 1,   rest: 60 },
     { key: 'incurl',   name: 'Incline dumbbell curl',            reps: 10, inc: 2,   rest: 60 },
     { key: 'dips',     name: 'Dips',                             reps: 10, load: 'added', inc: 2.5, rest: 120 },
-    { key: 'calfseat', name: 'Seated calf raise',                reps: 10, inc: 5,   rest: 60 },
     { key: 'abwheel',  name: 'Ab wheel rollout',                 reps: 10, load: 'none', rest: 60 }
   ] }
 ];
